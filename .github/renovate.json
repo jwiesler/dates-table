@@ -9,7 +9,7 @@
     "updatePinnedDependencies": false,
     "lockFileMaintenance": {
         "automerge": true,
-        "enabled": true
+        "enabled": false
     },
     "patch": {
         "enabled": false
